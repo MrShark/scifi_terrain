@@ -20,4 +20,5 @@ All designs are under GPL3 which means that you are welcome to sell the models b
 need to provide any changes you do to your customers.
 
 # Designs
-* [Bunkers](bunkers/README.md)
+* [Bunkers](bunkers/README.md) of various kinds
+* [Design elements](design elements/README.md) that are usefull as embellishment to your terrain
