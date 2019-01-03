@@ -9,3 +9,6 @@ Patterns that can be drawn on the terrain
 
 # Vents.svg
 Some ventilation shafts.
+
+# Balcony.svg
+A simple balcony to add to buildings.
