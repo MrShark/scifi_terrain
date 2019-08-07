@@ -12,3 +12,6 @@ Some ventilation shafts.
 
 # Balcony.svg
 A simple balcony to add to buildings.
+
+# Symbols.svg
+Symbols for some fraction
