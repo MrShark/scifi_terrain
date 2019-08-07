@@ -1,6 +1,5 @@
 # Modular walkways
 A set of modular walkways based on [Wyloch's Armory's Modular Roads for Warhammer 40k](https://youtu.be/NG9LTeQYOoY).
-They can be cut in
 
 # Walkways.svg
 You need three layers, a top, a bottom and a middle that you sandwich together to form a walkway.
@@ -14,3 +13,8 @@ The clamp consists of four layers and is used to connect two towers and the tab 
 To construct a tower you need 2 sandwiches of bottom, middle and top layers (with your selected decoration),
 1 middle tower and 4 corner struts. The tower and the struts can be constructed from other materials
 (drinking straws, empty paper roll etc.) to wary the look.
+
+# Tower_2.svg
+An alternate tower with truss struts
+To construct a tower you need 1 sandwiches of bottom, middle and top layers (with your selected decoration)
+and 4 corner struts.
