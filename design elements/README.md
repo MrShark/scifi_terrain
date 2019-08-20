@@ -15,3 +15,6 @@ A simple balcony to add to buildings.
 
 # Symbols.svg
 Symbols for some fraction
+
+# Windows.svg
+Some windows.
