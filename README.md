@@ -20,8 +20,9 @@ All designs are under GPL3 which means that you are welcome to sell the models b
 need to provide any changes you do to your customers.
 
 # Designs
+* [Buildings](buildings/README.md) to build
 * [Bunkers](bunkers/README.md) of various kinds
 * [Design elements](design%20elements/README.md) that are useful as embellishment to your terrain
-* [Walkways](walkways/README.md) based on [Wyloch's Armory's Modular Roads for Warhammer 40k](https://youtu.be/NG9LTeQYOoY)
-* [Buildings](buildings/README.md) to build
+* [Grebles](grebles/README.md) to add details on buildnings
 * [Landingpad](landingpad/README.md) for your airships
+* [Walkways](walkways/README.md) based on [Wyloch's Armory's Modular Roads for Warhammer 40k](https://youtu.be/NG9LTeQYOoY)
