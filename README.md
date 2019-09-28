@@ -23,3 +23,5 @@ need to provide any changes you do to your customers.
 * [Bunkers](bunkers/README.md) of various kinds
 * [Design elements](design%20elements/README.md) that are useful as embellishment to your terrain
 * [Walkways](walkways/README.md) based on [Wyloch's Armory's Modular Roads for Warhammer 40k](https://youtu.be/NG9LTeQYOoY)
+* [Buildings](buildings/README.md) to build
+* [Landingpad](landingpad/README.md) for your airships
